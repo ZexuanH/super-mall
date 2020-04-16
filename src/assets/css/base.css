@@ -1,0 +1,10 @@
+@import './normalize.css';
+
+:root{
+  --main-color: #d81e06;
+}
+
+a{
+  text-decoration: none;
+  color: #1e1e1e;
+}
